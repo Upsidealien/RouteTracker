@@ -14,23 +14,27 @@ namespace FormsBackgrounding {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class LongRunningPage : ContentPage {
+    public partial class LongRunningPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private Button longRunningTask;
+        private global::Xamarin.Forms.Button longRunningTask;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private Button stopLongRunningTask;
+        private global::Xamarin.Forms.Button stopLongRunningTask;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private Label ticker;
+        private global::Xamarin.Forms.Label ticker;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.CustomMap customMap;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(LongRunningPage));
-            longRunningTask = this.FindByName <Button>("longRunningTask");
-            stopLongRunningTask = this.FindByName <Button>("stopLongRunningTask");
-            ticker = this.FindByName <Label>("ticker");
+            longRunningTask = this.FindByName <global::Xamarin.Forms.Button>("longRunningTask");
+            stopLongRunningTask = this.FindByName <global::Xamarin.Forms.Button>("stopLongRunningTask");
+            ticker = this.FindByName <global::Xamarin.Forms.Label>("ticker");
+            customMap = this.FindByName <global::Xamarin.Forms.CustomMap>("customMap");
         }
     }
 }

@@ -5,6 +5,9 @@ namespace FormsBackgrounding
 {
 	public class App : Application
 	{
+		public static double ScreenHeight;
+		public static double ScreenWidth;
+
 		public App ()
 		{
 			MainPage = new LongRunningPage();
