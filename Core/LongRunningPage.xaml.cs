@@ -20,10 +20,7 @@ namespace FormsBackgrounding
 				var message = new StopLongRunningTaskMessage ();
 				MessagingCenter.Send (message, "StopLongRunningTaskMessage");
 			};
-				
 
-
-			InitializeComponent();
 
 			customMap.RouteCoordinates.Add(new Position(37.797534, -122.401827));
 			customMap.RouteCoordinates.Add(new Position(37.797510, -122.402060));

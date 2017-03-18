@@ -3,6 +3,7 @@
 	xmlns="http://xamarin.com/schemas/2014/forms" 
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
 	x:Class="FormsBackgrounding.LongRunningPage"
+	xmlns:local="clr-namespace:FormsBackgrounding;assembly=FormsBackgrounding"
 	Title="Long Running">
 
 	<ContentPage.Padding>
@@ -11,10 +12,10 @@
 
 	<ContentPage.Content>
 		<StackLayout>
+			<local:CustomMap x:Name="customMap" MapType="Street" WidthRequest="200" HeightRequest="200" />
 			<Button Text="Start Long Running Task" x:Name="longRunningTask" />
 			<Button Text="Stop Long Running Task" x:Name="stopLongRunningTask" />
 			<Label Text="" x:Name="ticker" FontSize="Large" HorizontalOptions="CenterAndExpand"  />
-			<CustomMap x:Name="customMap" MapType="Street" WidthRequest="{x:Static local:App.ScreenWidth}" HeightRequest="{x:Static local:App.ScreenHeight}" />
 		</StackLayout>
 	</ContentPage.Content>
 </ContentPage>
