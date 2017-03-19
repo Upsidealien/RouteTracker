@@ -22,11 +22,11 @@
 /Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/FormsBackgroundingiOS.exe
 /Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/obj/iPhoneSimulator/Debug/FormsBackgroundingiOS.exe
 /Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/obj/iPhoneSimulator/Debug/FormsBackgroundingiOS.exe.mdb
-/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
-/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
-/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/FormsBackgrounding.dll
-/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/FormsBackgrounding.dll.mdb
+/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
 /Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/FormsBackgrounding.dll
+/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/iOS/bin/iPhoneSimulator/Debug/FormsBackgrounding.dll.mdb

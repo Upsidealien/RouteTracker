@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{DC639DD0-57F2-4A1D-B37A-7546B296F008}|Default">
   <MonoDevelop.Ide.ItemProperties.FormsBackgrounding.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86_X86_google_apis" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/CustomMapRenderer.cs">
+    <Files>
+      <File FileName="iOS/CustomMapRenderer.cs" Line="60" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/thomascartwright/Documents/Development/Xamarin/Route Tracker/Core/MapPageCS.cs" relfile="Core/MapPageCS.cs" line="21" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
