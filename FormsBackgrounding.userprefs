@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{DC639DD0-57F2-4A1D-B37A-7546B296F008}|Default">
+﻿<Properties StartupConfiguration="{2CBA994D-4AB3-4C0C-B84B-6A1295F6305F}|Default">
   <MonoDevelop.Ide.ItemProperties.FormsBackgrounding.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86_X86_google_apis" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/CustomMapRenderer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
     <Files>
-      <File FileName="iOS/CustomMapRenderer.cs" Line="60" Column="4" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="5" Column="114" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
