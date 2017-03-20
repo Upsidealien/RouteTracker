@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{2CBA994D-4AB3-4C0C-B84B-6A1295F6305F}|Default">
+﻿<Properties StartupConfiguration="{DC639DD0-57F2-4A1D-B37A-7546B296F008}|Default">
   <MonoDevelop.Ide.ItemProperties.FormsBackgrounding.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86_X86_google_apis" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
     <Files>
-      <File FileName="Droid/Properties/AndroidManifest.xml" Line="5" Column="114" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="7" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
